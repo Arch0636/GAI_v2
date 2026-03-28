@@ -1,0 +1,20 @@
+--- Início da Geração: 2026-03-15 15:31:12.979373 ---
+Configurações: {
+  "destino": "C:/Users/vinic/OneDrive/\u00c1rea de Trabalho/gai/test",
+  "total_pastas": 4,
+  "arquivos_por_pasta": 4000,
+  "padrao_nome": "Aleat\u00f3rio",
+  "extensoes_custom": [],
+  "usar_subpastas": false,
+  "distribuir": false,
+  "limite_1kb": false,
+  "random_dates": false,
+  "av_test": true,
+  "dry_run": false,
+  "limite_bytes": null
+}
+
+[2026-03-15 15:31:12.979907] Pasta: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_153111\Pasta_001
+[2026-03-15 15:32:01.298051] Pasta: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_153111\Pasta_002
+[2026-03-15 15:32:47.924776] Pasta: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_153111\Pasta_003
+[2026-03-15 15:33:38.335026] Pasta: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_153111\Pasta_004

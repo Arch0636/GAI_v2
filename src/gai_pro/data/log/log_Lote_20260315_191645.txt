@@ -1,0 +1,62 @@
+--- Início da Geração: 2026-03-15 19:16:45.243204 ---
+Configurações: {
+  "destino": "C:/Users/vinic/OneDrive/\u00c1rea de Trabalho/gai/test",
+  "total_pastas": 1,
+  "arquivos_por_pasta": 40,
+  "padrao_nome": "Sequencial",
+  "extensoes_custom": [],
+  "usar_subpastas": false,
+  "distribuir": false,
+  "limite_1kb": true,
+  "random_dates": false,
+  "av_test": false,
+  "dry_run": false,
+  "limite_bytes": 5368709120
+}
+
+[2026-03-15 19:16:45.243552] Pasta: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001
+[2026-03-15 19:16:45.252874] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.py
+[2026-03-15 19:16:45.252891] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.docx
+[2026-03-15 19:16:45.252909] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.rar
+[2026-03-15 19:16:45.255892] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.xml
+[2026-03-15 19:16:45.256018] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.log
+[2026-03-15 19:16:45.256117] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.dll
+[2026-03-15 19:16:45.256137] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.pptx
+[2026-03-15 19:16:45.256312] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.php
+[2026-03-15 19:16:45.256478] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.xls
+[2026-03-15 19:16:45.257163] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.doc
+[2026-03-15 19:16:45.257184] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.ppt
+[2026-03-15 19:16:45.257192] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.exe
+[2026-03-15 19:16:45.257198] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.cpp
+[2026-03-15 19:16:45.257204] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.png
+[2026-03-15 19:16:45.257210] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.bat
+[2026-03-15 19:16:45.261266] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.csv
+[2026-03-15 19:16:45.261285] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.jpg
+[2026-03-15 19:16:45.261753] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.xlsx
+[2026-03-15 19:16:45.261938] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.mp4
+[2026-03-15 19:16:45.263163] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.docx
+[2026-03-15 19:16:45.263179] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.ini
+[2026-03-15 19:16:45.263190] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.cpp
+[2026-03-15 19:16:45.263477] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.xml
+[2026-03-15 19:16:45.263488] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.rar
+[2026-03-15 19:16:45.263494] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.pptx
+[2026-03-15 19:16:45.263500] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.docx
+[2026-03-15 19:16:45.263506] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.doc
+[2026-03-15 19:16:45.263512] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.json
+[2026-03-15 19:16:45.263519] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.php
+[2026-03-15 19:16:45.264838] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.jpg
+[2026-03-15 19:16:45.264859] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.doc
+[2026-03-15 19:16:45.264867] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.html
+[2026-03-15 19:16:45.264874] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.py
+[2026-03-15 19:16:45.264884] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.py
+[2026-03-15 19:16:45.264890] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.php
+[2026-03-15 19:16:45.264896] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.py
+[2026-03-15 19:16:45.264901] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.txt
+[2026-03-15 19:16:45.264977] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.txt
+[2026-03-15 19:16:45.265050] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.png
+[2026-03-15 19:16:45.265133] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260315_191645\Pasta_001\arq_00001.txt
+
+--- Fim da Geração: 2026-03-15 19:16:45.266870 ---
+Total de Pastas: 2
+Total de Arquivos: 40
+Tamanho Total: 0.04 MB

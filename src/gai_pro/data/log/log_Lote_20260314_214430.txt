@@ -1,0 +1,72 @@
+--- Início da Geração: 2026-03-14 21:44:30.366497 ---
+Configurações: {
+  "destino": "C:/Users/vinic/OneDrive/\u00c1rea de Trabalho/gai/test",
+  "total_pastas": 1,
+  "arquivos_por_pasta": 50,
+  "padrao_nome": "Timestamp",
+  "extensoes_custom": [],
+  "usar_subpastas": false,
+  "distribuir": false,
+  "limite_1kb": false,
+  "random_dates": false,
+  "av_test": true,
+  "dry_run": false,
+  "limite_bytes": 104857600
+}
+
+[2026-03-14 21:44:30.366896] Pasta: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001
+[2026-03-14 21:44:31.086664] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_5919.xls
+[2026-03-14 21:44:31.086740] 🛡️ Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\AV_TEST_941.com
+[2026-03-14 21:44:31.086768] 🛡️ Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\AV_TEST_986.com
+[2026-03-14 21:44:31.086776] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_2503.dll
+[2026-03-14 21:44:31.086783] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_1711.ppt
+[2026-03-14 21:44:31.086789] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_8111.xml
+[2026-03-14 21:44:31.086795] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_7787.xlsx
+[2026-03-14 21:44:31.086801] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_6720.txt
+[2026-03-14 21:44:31.086807] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_4761.py
+[2026-03-14 21:44:31.086829] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_8389.docx
+[2026-03-14 21:44:31.086837] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_5859.doc
+[2026-03-14 21:44:31.086843] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_6430.html
+[2026-03-14 21:44:31.086849] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_5381.cpp
+[2026-03-14 21:44:31.086856] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_3767.mp3
+[2026-03-14 21:44:31.086862] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_8419.dll
+[2026-03-14 21:44:31.086867] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_4084.bat
+[2026-03-14 21:44:31.086873] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_9526.json
+[2026-03-14 21:44:31.086879] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_4878.zip
+[2026-03-14 21:44:31.086884] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_7505.jpg
+[2026-03-14 21:44:31.086901] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_4676.xml
+[2026-03-14 21:44:31.086908] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_3695.html
+[2026-03-14 21:44:31.086914] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_2108.ini
+[2026-03-14 21:44:31.086920] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_8087.ini
+[2026-03-14 21:44:31.086925] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_5609.py
+[2026-03-14 21:44:31.086931] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_0334.csv
+[2026-03-14 21:44:31.086936] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_1514.mp3
+[2026-03-14 21:44:31.086941] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_8184.js
+[2026-03-14 21:44:31.086957] 🛡️ Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\AV_TEST_355.com
+[2026-03-14 21:44:31.086964] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_2715.xml
+[2026-03-14 21:44:31.086980] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_1337.xml
+[2026-03-14 21:44:31.086987] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_9769.xlsx
+[2026-03-14 21:44:31.087003] 🛡️ Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\AV_TEST_505.com
+[2026-03-14 21:44:31.087010] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_3038.bat
+[2026-03-14 21:44:31.087133] 🛡️ Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\AV_TEST_870.com
+[2026-03-14 21:44:31.087159] 🛡️ Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\AV_TEST_933.com
+[2026-03-14 21:44:31.087167] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_4625.html
+[2026-03-14 21:44:31.087173] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_4926.txt
+[2026-03-14 21:44:31.087179] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_1561.xlsx
+[2026-03-14 21:44:31.087184] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_8257.exe
+[2026-03-14 21:44:31.087201] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_5547.html
+[2026-03-14 21:44:31.087208] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_7775.txt
+[2026-03-14 21:44:31.087214] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_2581.cpp
+[2026-03-14 21:44:31.087220] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_1348.cpp
+[2026-03-14 21:44:31.087226] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_3994.exe
+[2026-03-14 21:44:31.087231] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_1882.pptx
+[2026-03-14 21:44:31.107246] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214430_3700.log
+[2026-03-14 21:44:31.107762] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214431_3851.php
+[2026-03-14 21:44:31.107777] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214431_7980.exe
+[2026-03-14 21:44:31.108013] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214431_6973.py
+[2026-03-14 21:44:31.108366] 📝 Criado: C:/Users/vinic/OneDrive/Área de Trabalho/gai/test\Lote_20260314_214430\Pasta_001\214431_8413.php
+
+--- Fim da Geração: 2026-03-14 21:44:31.110319 ---
+Total de Pastas: 2
+Total de Arquivos: 50
+Tamanho Total: 45.26 MB
