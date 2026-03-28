@@ -18,21 +18,4 @@ O GAI (Gerador Automático de Arquivos Inúteis) é uma ferramenta desenvolvida 
 ✅ Não afeta dados reais do ambiente de produção
 
 
-🚀 Como Usar
-Pré-requisitos
 
-(Liste aqui as dependências necessárias, ex: Python 3.x, Node.js, etc.)
-
-Instalação
-bash# Clone o repositório
-git clone https://github.com/seu-usuario/GAI_v2.git
-
-# Acesse a pasta do projeto
-cd GAI_v2
-
-# Instale as dependências (se aplicável)
-# npm install  ou  pip install -r requirements.txt
-Execução
-bash# Exemplo de uso
-# Substitua pelos comandos reais do seu projeto
-python gai.py --tamanho 10MB --formato txt --quantidade 5
