@@ -6,8 +6,6 @@ Gere arquivos de teste de forma rápida, prática e sem complicação.
  Sobre o Projeto
 O GAI (Gerador Automático de Arquivos Inúteis) é uma ferramenta desenvolvida para facilitar a criação de arquivos fictícios para fins de teste. Ideal para desenvolvedores e analistas que precisam simular cargas de dados, validar sistemas de upload, testar limites de armazenamento ou preencher ambientes de homologação — tudo isso sem comprometer dados reais.
 
- Projeto desenvolvido com auxílio de inteligência artificial.
-
 
  Funcionalidades
 
